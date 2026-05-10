@@ -50,7 +50,9 @@ GPA: 18.79/20
  
  - Can read technical texts and documentation
  
- 📫 ContactEmail: nrzjvd@gmail.com
+ 📫 Contact
+ 
+ Email: [contact me](nrzjvd@gmail.com)
  
  GitHub:[DAYIJVD](https://github.com/DAYIJVD)
  
