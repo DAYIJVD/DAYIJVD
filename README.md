@@ -5,6 +5,7 @@
 Javad — Full-Stack Web Developer📍 Iran | ✉️ [nrzjvd@gmail.com] | 🐙 [github.com/DAYIJVD]🚀 About MeI'm Javad — a Full-Stack Web Developer who believes in clean architecture, performance, and user experience (even on the backend).I'm energetic, creative, but serious about quality. Every project is a chance to leave the codebase better than I found it.Stack: JavaScript/TypeScript (Node.js, React.js, Next.js) + Python + Jupyter + PostgreSQL🛠 Technical SkillsArea	TechnologiesBackend	Node.js, Express.js, RESTful API, JWT, MVC, Clean Architecture (learning), TypeScript (basic)Database	MongoDB, MySQL, PostgreSQLFrontend	React.js, Next.js, Redux Toolkit, TailwindCSS, Material UI, HTML5/CSS3, JavaScript (ES6+)Tools	Git & GitHub (branching, merging), Docker (basic), Linux (basic), PostmanOthers	WebSocket, GraphQL (familiar)
 
 💼 Work Experience
+
 Full-Stack Developer Intern – Sima Soft Software Company | 4 months
 
 - Collaborated on frontend and backend modules
@@ -21,7 +22,7 @@ Academic & Practice Projects (selected):
 - chat system with WebSocket (React + Express + PGlite + Socket.IO)
 - GraphQL vs REST comparison project 
 
-All projects are available on my GitHub.🎓 EducationM.Sc. in Software Engineering – Zand University, Shiraz | 2025 – presentB.Sc. in Software Engineering – Jahrom University | 2023 – 2025GPA: 18.79/20📜 Certificates (newest first)Next.js – Bootstart Institute | 2024Node.js – CodeNight Institute | 2024React – Bootstart Institute | 2023JavaScript – Bootstart Institute | 2022Courses completed successfully🧠 Soft SkillsTeamwork<br>Time managementFast learningResponsibility🌐 LanguageEnglish – Can read technical texts and documentation📫 ContactEmail: nrzjvd@gmail.comGitHub:github.com/DAYIJVDLinkedIn: Coming soon
+All projects are available on my GitHub.🎓 EducationM.Sc. in Software Engineering – Zand University, Shiraz | 2025 – presentB.Sc. in Software Engineering – Jahrom University | 2023 – 2025GPA: 18.79/20📜 Certificates (newest first)Next.js – Bootstart Institute | 2024Node.js – CodeNight Institute | 2024React – Bootstart Institute | 2023JavaScript – Bootstart Institute | 2022Courses completed successfully🧠 Soft SkillsTeamworkTime managementFast learningResponsibility🌐 LanguageEnglish – Can read technical texts and documentation📫 ContactEmail: nrzjvd@gmail.comGitHub:github.com/DAYIJVDLinkedIn: Coming soon
 
 
 
