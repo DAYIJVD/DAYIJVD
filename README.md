@@ -6,6 +6,7 @@ Javad — Full-Stack Web Developer<br>📍 Iran | ✉️ [nrzjvd@gmail.com] | �
 
 <br>💼 Work Experience<br>Full-Stack Developer Intern – Sima Soft Software Company | 4 months<br>
 
+
 - Collaborated on frontend and backend modules
 - Learned team workflows, Git, and on-time delivery
 - Fixed bugs and improved existing system performance
