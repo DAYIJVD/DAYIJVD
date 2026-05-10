@@ -3,7 +3,7 @@
  
 # 💫 About Me:
 
-Javad — Full-Stack Web Developer📍 Iran | ✉️ [nrzjvd@gmail.com] | 🐙 [github.com/DAYIJVD]
+Javad — Full-Stack Web Developer📍| Iran   
 
 🚀 About Me
 
