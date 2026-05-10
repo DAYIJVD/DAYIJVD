@@ -47,7 +47,8 @@ GPA: 18.79/20
  - learningResponsibility
  
  🌐 LanguageEnglish 
- – Can read technical texts and documentation
+ 
+ - Can read technical texts and documentation
  
  📫 ContactEmail: nrzjvd@gmail.com
  
