@@ -52,7 +52,7 @@ GPA: 18.79/20
  
  📫 ContactEmail: nrzjvd@gmail.com
  
- GitHub:DAYIJVD[https://github.com/DAYIJVD]
+ GitHub:[DAYIJVD](https://github.com/DAYIJVD)
  
  LinkedIn: Coming soon
 
