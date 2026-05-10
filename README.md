@@ -22,11 +22,41 @@ Academic & Practice Projects (selected):
 - chat system with WebSocket (React + Express + PGlite + Socket.IO)
 - GraphQL vs REST comparison project 
 
-All projects are available on my GitHub.🎓 EducationM.Sc. in Software Engineering – Zand University, Shiraz | 2025 – presentB.Sc. in Software Engineering – Jahrom University | 2023 – 2025GPA: 18.79/20📜 Certificates (newest first)Next.js – Bootstart Institute | 2024Node.js – CodeNight Institute | 2024React – Bootstart Institute | 2023JavaScript – Bootstart Institute | 2022Courses completed successfully🧠 Soft SkillsTeamworkTime managementFast learningResponsibility🌐 LanguageEnglish – Can read technical texts and documentation📫 ContactEmail: nrzjvd@gmail.comGitHub:github.com/DAYIJVDLinkedIn: Coming soon
+All projects are available on my GitHub.
+
+🎓 Education
+
+M.Sc. in Software Engineering – Zand University, Shiraz | 2025 – present
+
+B.Sc. in Software Engineering – Jahrom University | 2023 – 2025
+
+GPA: 18.79/20
+
+📜 Certificates (newest first)
+
+- Next.js – Bootstart Institute | 2024
+- Node.js – CodeNight Institute | 2024
+- React – Bootstart Institute | 2023
+- JavaScript – Bootstart Institute | 2022
+
+ Courses completed successfully
+ 🧠 Soft Skills
+ - TeamworkTime
+ - managementFast
+ - learningResponsibility
+ 
+ 🌐 LanguageEnglish 
+ – Can read technical texts and documentation
+ 
+ 📫 ContactEmail: nrzjvd@gmail.com
+ 
+ GitHub:DAYIJVD[https://github.com/DAYIJVD]
+ 
+ LinkedIn: Coming soon
 
 
 
 ---
 [![](https://komarev.com/ghpvc/?username=DAYIJVD&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
