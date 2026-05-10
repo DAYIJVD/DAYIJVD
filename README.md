@@ -40,6 +40,7 @@ GPA: 18.79/20
 - JavaScript – Bootstart Institute | 2022
 
  Courses completed successfully
+ 
  🧠 Soft Skills
  - TeamworkTime
  - managementFast
