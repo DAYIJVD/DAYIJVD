@@ -14,7 +14,7 @@ Full-Stack Developer Intern – Sima Soft Software Company | 4 months
 
 Academic & Practice Projects (selected):
 
-- Diabetes Detection Using Machine Learning 
+- Diabetes Detection Using Machine Learning with jupyter + python
 - Cloud System (File Management System) with Supabase,Express,React
 - Online store with React, Node.js, MongoDB
 - Task manager with MVC + JWT auth
