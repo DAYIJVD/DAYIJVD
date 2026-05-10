@@ -26,11 +26,8 @@ All projects are available on my GitHub.
 
 🎓 Education
 
-M.Sc. in Software Engineering – Zand University, Shiraz | 2025 – present
-
-B.Sc. in Software Engineering – Jahrom University | 2023 – 2025
-
-GPA: 18.79/20
+- M.Sc. in Software Engineering – Zand University, Shiraz | 2025 – present
+- B.Sc. in Software Engineering – Jahrom University | 2023 – 2025 | GPA: 18.79/20
 
 📜 Certificates (newest first)
 
