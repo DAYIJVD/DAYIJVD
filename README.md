@@ -25,7 +25,8 @@ Academic & Practice Projects (selected):
 - Task manager with MVC + JWT auth
 - Blog app with Next.js + PostgreSQL
 - chat system with WebSocket (React + Express + PGlite + Socket.IO)
-- GraphQL vs REST comparison project 
+- GraphQL vs REST comparison project
+- NLP project - Text Mining with WordNet (jupyter + python)
 
 All projects are available on my GitHub.
 
