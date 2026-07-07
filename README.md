@@ -55,6 +55,8 @@ All projects are available on my GitHub.
  
  📫 Contact
  
+🌐 Portfolio: [jvdnrzportfolio](https://jvdnrzportfolio.netlify.app/)
+ 
  Email: [contact me](mailto:nrzjvd@gmail.com)
  
  GitHub:[DAYIJVD](https://github.com/DAYIJVD)
