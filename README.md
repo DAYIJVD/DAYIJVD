@@ -27,6 +27,7 @@ Academic & Practice Projects (selected):
 - chat system with WebSocket (React + Express + PGlite + Socket.IO)
 - GraphQL vs REST comparison project
 - NLP project - Text Mining with WordNet (jupyter + python)
+- Information Retrieval System — Vector Space Model (tf-idf + Cosine Similarity)
 
 All projects are available on my GitHub.
 
