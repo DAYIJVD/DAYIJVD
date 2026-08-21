@@ -28,6 +28,7 @@ Academic & Practice Projects (selected):
 - GraphQL vs REST comparison project
 - NLP project - Text Mining with WordNet (jupyter + python)
 - Information Retrieval System — Vector Space Model (tf-idf + Cosine Similarity)
+- Online store (shaafaf maart) data Analysis sysytem
 
 All projects are available on my GitHub.
 
